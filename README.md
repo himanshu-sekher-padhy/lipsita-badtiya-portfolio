@@ -2,7 +2,7 @@
 
 Welcome to **Lipsita's Portfolio** – a curated showcase of my work as a passionate and detail-oriented software developer. This portfolio highlights my projects, skills, and the technologies I specialize in.
 
-## 👩‍💻 About Me :
+## 👩‍💻 About Me
 
 Hi! I'm **Lipsita**, a Computer Science student and aspiring full-stack developer with a keen interest in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into reality using clean code and intuitive design.
 
