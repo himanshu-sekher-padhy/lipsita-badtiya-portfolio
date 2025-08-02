@@ -33,3 +33,7 @@ git clone https://github.com/your-username/portfolio-lipsita.git
 cd portfolio-lipsita
 npm install
 npm run dev
+
+
+
+djvidbuiwvbwiubweiuuebwfei
