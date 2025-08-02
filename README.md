@@ -34,6 +34,3 @@ cd portfolio-lipsita
 npm install
 npm run dev
 
-
-
-djvidbuiwvbwiubweiuuebwfei
