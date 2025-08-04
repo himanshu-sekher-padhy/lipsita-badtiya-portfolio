@@ -7,7 +7,7 @@ Welcome to **Lipsita's Portfolio** – a curated showcase of my work as a passio
 Hi! I'm **Lipsita**, a Computer Science student and aspiring full-stack developer with a keen interest in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into reality using clean code and intuitive design.
 
 ## 🌐 Live Website
-[Visit Here]([URL](https://himanshu-sekher-padhy.github.io/lipsita-badtiya-portfolio/))
+[Visit Here]([URL](https://himanshu-sekher-padhy.github.io/lipsita-badtiya-portfolio/)
 
 ## 🛠️ Tech Stack
 
