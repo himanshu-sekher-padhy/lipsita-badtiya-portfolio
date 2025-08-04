@@ -7,13 +7,13 @@ Welcome to **Lipsita's Portfolio** – a curated showcase of my work as a passio
 Hi! I'm **Lipsita**, a Computer Science student and aspiring full-stack developer with a keen interest in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into reality using clean code and intuitive design.
 
 ## 🌐 Live Website
-[Click Here to Visit the Site 👈🏻](https://himanshu-sekher-padhy.github.io/lipsita-badtiya-portfolio/)
+[Click here to visit the site 👈🏻](https://himanshu-sekher-padhy.github.io/lipsita-badtiya-portfolio/)
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Spring Boot *(optional)*
-- **Database:** MySQL, MongoDB
+- **Backend:** Node.js, Spring Boot
+- **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Postman, Figma
 
 ## 📁 Features
