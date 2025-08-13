@@ -26,6 +26,14 @@ Hi! I'm **Lipsita**, a Computer Science student and aspiring full-stack develope
 
 ## 🚀 Getting Started (for developers)
 
+Clone the repository and run it locally:
 
+```bash
+git clone https://github.com/your-username/portfolio-lipsita.git
+cd portfolio-lipsita
+npm install
+npm run dev
+
+```
 
 
